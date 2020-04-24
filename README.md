@@ -5,4 +5,5 @@ The importance of such project reflect for example when a software use more than
 
 Current Situation
 ------------
-Right now the project only supports connection to MySQL. The long term goal is that the library will support the connection of all 355 DB engines from the following rank - https://db-engines.com/en/ranking. Since the above list contains lots of DBs and most of them are not popular, implementation progress will go from top to buttom.
+Right now the project only supports connection to MySQL. The long term goal is that the library will support the connection of all 355 DB engines from the following rank - https://db-engines.com/en/ranking.
+Since the above list contains lots of DBs and most of them are not popular, implementation progress will go from top to buttom.
