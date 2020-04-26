@@ -1,6 +1,7 @@
 # ConDBnector
 
-The Python interface to all of the popular and known databases. Single library that offers connection to all kinds.
+The Python interface to all of the popular and known databases. Single library that offers connection to all kinds. That in fact, a singleton pattern with a connection to the most used and popular dbms. E.g. OracleDB, MySQL, Microsoft SQLServer, Postgresql, DynamoDB, MariaDB, Splunk, Solr and others.
+
 The importance of such project reflect for example when a software use more than one DB.
 
 ### Current Situation
